@@ -11,7 +11,7 @@
   <a href="mailto:luiz.eduardo.castro@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-00509D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
- <a href="https://www.google.com/maps/place/S%C3%A3o+Jos%C3%A9+dos+Campos,+SP/@-23.1894205,-46.0278243,11z/data=!3m1!4b1!4m6!3m5!1s0x94cc4bb3858cc2e7:0xba25a33168f8c1!8m2!3d-23.2198396!4d-45.8915658!16zL20vMDNiY3F6?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer"> -->
+ <a href="https://www.google.com/maps/place/S%C3%A3o+Jos%C3%A9+dos+Campos,+SP/@-23.1894205,-46.0278243,11z/data=!3m1!4b1!4m6!3m5!1s0x94cc4bb3858cc2e7:0xba25a33168f8c1!8m2!3d-23.2198396!4d-45.8915658!16zL20vMDNiY3F6?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Localização-São%20José%20dos%20Campos--SP-134074?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
 </a>
 </div>
