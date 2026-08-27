@@ -69,8 +69,8 @@ Possuo sólida experiência no desenvolvimento de automações de rotinas (RPA),
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=ocean&bg_color=0B2545&title_color=ffffff&text_color=8da9c4&icon_color=00a8e8&border_color=134074&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=ocean&bg_color=0B2545&title_color=ffffff&text_color=8da9c4&border_color=134074&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=castroluizes&show_icons=true&theme=ocean&bg_color=0B2545&title_color=ffffff&text_color=8da9c4&icon_color=00a8e8&border_color=134074&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castroluizes&layout=compact&theme=ocean&bg_color=0B2545&title_color=ffffff&text_color=8da9c4&border_color=134074&hide_border=false" />
 </div>
 
 ---
