@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/castroluizes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:luiz.eduardo.castro@gmail.com">
     <img src="https://img.shields.io/badge/Email-00509D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Localização-São%20José%20dos%20Campos--SP-134074?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge"/>
