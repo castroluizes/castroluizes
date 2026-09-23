@@ -18,7 +18,7 @@
 
 <br/>
 
-## <img width="50" alt="Ícone" alt="Eu_Futurismo Orgânico (Biophilic Design)" src="https://github.com/user-attachments/assets/414784f8-38c4-47af-93a8-5880adb0b02e" /> 
+## <img width="1086" height="1448" alt="PerfilCompactado" src="https://github.com/user-attachments/assets/9ccc9ecb-0b21-4149-bd2f-63c434cd2476" /> 
 Sobre Mim
 
 Profissional formado em **Tecnologia da Informação** com mais de **15 anos de trajetória corporativa** em grande porte (**Suzano S/A**). Minha especialidade está na interseção entre **Tecnologia, Inteligência de Dados e Eficiência Operacional**.
