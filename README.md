@@ -18,7 +18,7 @@
 
 <br/>
 
-## <img width="500" height="667" alt="PerfilCompactado" src="https://github.com/user-attachments/assets/9ccc9ecb-0b21-4149-bd2f-63c434cd2476" /> 
+## <img width="300" height="400" alt="PerfilCompactado" src="https://github.com/user-attachments/assets/9ccc9ecb-0b21-4149-bd2f-63c434cd2476" /> 
 Sobre Mim
 
 Profissional formado em **Tecnologia da Informação** com mais de **15 anos de trajetória corporativa** em grande porte (**Suzano S/A**). Minha especialidade está na interseção entre **Tecnologia, Inteligência de Dados e Eficiência Operacional**.
