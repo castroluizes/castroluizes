@@ -49,7 +49,7 @@ Possuo sólida experiência no desenvolvimento de automações de rotinas (RPA),
 
 > *Abaixo estão algumas das soluções que desenvolvi focando em automação de tarefas, extração de dados e dashboards executivos.*
 
-### 🤖 [Nome do Projeto 1 - Automação RPA/Python](link-do-repositorio-aqui)
+### 🤖 [Nome do Projeto 1 - Automação RPA/Python][https://github.com/castroluizes/Py-Analise]
 * **Descrição:** Automação desenvolvida para extração, validação e consolidação de relatórios operacionais/financeiros.
 * **Tecnologias:** `Python`, `Pandas`, `OpenPyXL`.
 * **Impacto:** Redução do tempo de processamento de rotinas manuais de horas para poucos minutos, garantindo acurácia de dados.
